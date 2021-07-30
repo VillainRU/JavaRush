@@ -1,4 +1,4 @@
-package cycles.summation;
+package cycles;
 
 import java.util.Scanner;
 
