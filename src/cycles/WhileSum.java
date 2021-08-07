@@ -1,6 +1,6 @@
 package cycles;
 
-public class whilesum {
+public class WhileSum {
     public static void main(String[] args) {
         //напишите тут ваш код
         int sum = 0;
